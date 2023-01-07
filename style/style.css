@@ -1,0 +1,56 @@
+/* default css */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    width:1270px;
+    margin: 0px auto;
+}
+.primary-btn{
+
+}
+a{
+    text-decoration: none;
+}
+/* banner section */
+header {
+    
+}
+.banner-info {
+    width: 500px;
+    text-align: right;
+}
+.banner-content {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    height: 100vh;
+}
+.banner-section h1{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 65px;
+    color: #fff;
+    font-weight: 700;
+    line-height: 76px;
+
+}
+.banner-section p{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    color: #fff;
+    margin: 30px 0px;
+}
+.banner-section .primary-btn {
+    color: #005FAC;
+    background: #fff;
+    padding: 15px 18px;
+    border-radius: 5px;
+    font-size: 20px;
+    display: inline-block;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+}
+/*  my failour section */
